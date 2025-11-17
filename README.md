@@ -139,24 +139,24 @@ After running the full pipeline, the `results/comparison_cifar/` folder will con
 
 #### 1\. Generator Loss Comparison
 
-*(Shows the stable loss of WGAN-GP vs. the chaotic loss of DCGAN)*
+![Generator Loss Comparison](comparison_images/01_generator_loss_comparison.png)
 
 \`\`
 
 #### 2\. Discriminator/Critic Loss Comparison
 
-*(Shows WGAN-GP's critic loss converging, proving it's learning the distance)*
+![Discriminator/Critic Loss Comparison](comparison_images/02_discriminator_loss_comparison.png)
 
 \`\`
 
 #### 3\. Qualitative Image Comparison
 
-*(Visually demonstrates WGAN-GP's ability to avoid mode collapse)*
+![Qualitative Image Comparison](comparison_images/03_qualitative_image_comparison.png)
 
 \`\`
 
 #### 4\. FID Score Comparison
 
-*(Provides quantitative proof that WGAN-GP produces higher-fidelity and more diverse images)*
+![FID Score Comparison](comparison_images/04_fid_score_comparison.png)
 
 \`\`

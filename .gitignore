@@ -1,0 +1,17 @@
+__pycache__/
+
+dataset_cifar/
+
+checkpoints_cifar/
+
+checkpoints_wgan_cifar/
+
+results/
+
+dcgan.json
+
+wgan.json
+
+dcgan_output.txt
+
+wgan_output.txt

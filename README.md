@@ -151,7 +151,7 @@ After running the full pipeline, the `results/comparison_cifar/` folder will con
 
 #### 3\. Qualitative Image Comparison
 
-![Qualitative Image Comparison](comparison_images/03_qualitative_image_comparison.png)
+![Qualitative Image Comparison](comparison_images/03_qualitative_comparison.png)
 
 \`\`
 
